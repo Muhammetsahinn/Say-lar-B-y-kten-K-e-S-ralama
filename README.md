@@ -1,1 +1,4 @@
-# Say-lar-B-y-kten-K-e-S-ralama
+# Sayilari Buyukten-Kucuge-Siralama
+
+
+#https://app.patika.dev/emmiboy
